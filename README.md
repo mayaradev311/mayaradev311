@@ -8,9 +8,9 @@ Utilizo o GitHub para compartilhar projetos, atividades e exercios desenvolvidos
 - GitHub
 
 ## Contato
-Email: mayaraxavieralvesdossantos@gmail.com
-Instagram: @bymayyz
-Número: 
+- Email: mayaraxavieralvesdossantos@gmail.com
+- Instagram: @bymayyz
+- Número: 
 
 ## Curiosidades
 Gosto de jogos com puzzles, de desenhar e passo meu tempo livre trabalhando com designs graficos no meu proprio estilo. Criatividade é o que me acompanha em tudo que faço, é o caminho que eu escolhi seguir. ⭐
