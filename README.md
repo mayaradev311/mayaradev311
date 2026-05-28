@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sobre mim 
+Me chamo Mayara, tenho 16 anos e sou estudante do senai, atualmente cursando Desenvolvimento de Sistemas
 
-<!--
-**mayaradev311/mayaradev311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Utilizo o GitHub para compartilhar projetos, atividades e exercios desenvolvidos durante o curso, visando colocar em pratica os conhecimedos sobre programação e desenvolvimento web adquiridos durante os semestres.
 
-Here are some ideas to get you started:
+## Tecnologias e ferramentas
+- python
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+Email: mayaraxavieralvesdossantos@gmail.com
+Instagram: @bymayyz
+Número: 
+
+## Curiosidades
+Gosto de jogos com puzzles, de desenhar e passo meu tempo livre trabalhando com designs graficos no meu proprio estilo. Criatividade é o que me acompanha em tudo que faço, é o caminho que eu escolhi seguir. ⭐
